@@ -1,0 +1,6 @@
+# Docker
+**/pgdata/
+
+# IDE / OS
+.vscode/
+.DS_Store
